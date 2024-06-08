@@ -12,6 +12,6 @@ class PluginDG : JavaPlugin() {
     }
 
     override fun onDisable() {
-        println("Goodbye, world!")
+        println("[PluginDG] Plugin desativado com sucesso!")
     }
 }
